@@ -11,6 +11,11 @@ public class Demo1 {
 		int result = a / b;
 		
 		System.out.println(result);
+
+		for(int i = 0 ; i < 20 ; i++) {
+			System.out.println(i);
+		}
+		// added constructor
 		
 	}
 	
